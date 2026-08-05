@@ -1,4 +1,4 @@
-# The Free Self-Directed AI Security Mastery Path
+# The Free Self-Directed AI Security Mastery Path - Brought to you by Cameron Hopkin Founder of Waypoint Compliance Advisory
 
 ## Zero-Cost Route to Elite AI Security Expertise
 
