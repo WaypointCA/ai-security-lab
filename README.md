@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202026-blue.svg)]()
 
 > **Platform:** Optimized for Kubuntu/Ubuntu 24.04 LTS with Python virtual environments
 
@@ -28,6 +28,18 @@ The AI security training market charges $5,000-$15,000 for courses teaching skil
 - AI security governance and compliance frameworks
 
 **Time commitment:** 2-3 hours daily for 36 weeks (or accelerate based on your background)
+
+---
+
+## Where This Sits
+
+This lab is the on-ramp: self-directed, hands-on, and free. If you want the same
+subject matter treated at research level, the
+[applied AI security and assurance curriculum](https://waypointca.com/ai-security/curriculum/)
+is published in full, including the complete
+[LLM and agent red teaming syllabus](https://waypointca.com/ai-security/curriculum/llm-agent-security-red-teaming/).
+It is a body of knowledge and a reference, not a program you enroll in, and it is free to read
+and free to borrow from.
 
 ---
 
@@ -195,8 +207,9 @@ jupyter lab week01_ml_basics.ipynb
 
 **Study Materials (All Free):**
 - [ ] **MITRE ATLAS**: [https://atlas.mitre.org](https://atlas.mitre.org) - Complete framework study
-- [ ] **OWASP Top 10 for LLM Applications**: [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [ ] **NIST AI RMF**: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [ ] **OWASP Top 10 for LLM Applications 2025 (v2.0)**: [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [ ] **OWASP Top 10 for Agentic Applications 2026**: [https://genai.owasp.org](https://genai.owasp.org) - the agent-specific catalogue, read this once you reach the agent phases
+- [ ] **NIST AI RMF and the Generative AI Profile (AI 600-1)**: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [ ] **AI Incident Database**: [https://incidentdatabase.ai](https://incidentdatabase.ai) - Study real breaches
 
 **YouTube Channels to Follow:**
@@ -468,6 +481,7 @@ touch scanner.py requirements.txt README.md
 ### Week 25-26: Compliance and Governance
 
 **Free Compliance Resources:**
+- [ ] [ISO/IEC 42001](https://www.iso.org/standard/81230.html) (the first certifiable AI management system standard)
 - [ ] [ISO/IEC 23053:2022](https://www.iso.org/standard/74438.html) (Framework for AI trustworthiness)
 - [ ] [EU AI Act Full Text](https://artificialintelligenceact.eu/the-act/)
 - [ ] [NIST AI RMF Playbook](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
