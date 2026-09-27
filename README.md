@@ -211,6 +211,7 @@ jupyter lab week01_ml_basics.ipynb
 - [ ] **OWASP Top 10 for Agentic Applications 2026**: [https://genai.owasp.org](https://genai.owasp.org) - the agent-specific catalogue, read this once you reach the agent phases
 - [ ] **NIST AI RMF and the Generative AI Profile (AI 600-1)**: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [ ] **AI Incident Database**: [https://incidentdatabase.ai](https://incidentdatabase.ai) - Study real breaches
+- [ ] **Orca AI Incident Archive**: [https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Study real AI agent incidents (prompt injection, MCP, agent supply chain), each with primary sources and an attack-chain diagram
 
 **YouTube Channels to Follow:**
 - [ ] [Two Minute Papers](https://www.youtube.com/c/TwoMinutePapers)
